@@ -1,0 +1,248 @@
+.container1{
+    background-image: url(../Images/banner1.jpg);
+    width: 100%;
+    height: 700px;
+}
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .container1 {background: green;
+        height: 1200px;}
+        .text4{
+            color: brown;
+        }
+        
+  }
+  
+  /* Small devices (portrait tablets and large phones, 600px and up) */
+  @media only screen and (min-width: 600px) {
+   
+  }
+  
+  /* Medium devices (landscape tablets, 768px and up) */
+  @media only screen and (min-width: 768px) {
+   
+  } 
+  
+  /* Large devices (laptops/desktops, 992px and up) */
+  @media only screen and (min-width: 992px) {
+  
+  } 
+  
+  /* Extra large devices (large laptops and desktops, 1200px and up) */
+  @media only screen and (min-width: 1200px) {
+    
+  }
+.logo{
+    padding-left: 230px;
+}
+ .ar{
+    text-decoration: none;
+    color: blanchedalmond;
+
+}
+.bars{
+    color: black;
+    font-size: 50px;
+}
+.txt1{
+    text-align: center;
+    margin-top: 100px;
+}
+.text1{
+    color: white;
+    font-size: 150px;
+    padding-left: 150px;
+
+}
+.text2{
+    color: white;
+    font-size: 130px;
+    padding-left:150px;
+    margin-top: -50px;
+}
+.banner1{
+    padding-right: 200px;
+    text-align: start;
+}
+.button1{
+    border-radius: 8px;
+    border: none;
+    height: 50px;
+    width: 200px;
+    background-color: white;
+}
+.container2{
+    margin-top: 60px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.txt2{
+    padding: 10px;
+}
+.text3{
+    font-size: 50px;
+    color: orangered;
+}
+.column{
+    border: 2px solid whitesmoke;
+}
+.text04{
+    padding: 15px;
+    text-align: center;
+}
+.text4{
+    text-align: center;
+    padding-bottom: 15px;
+}
+.but{
+    text-align: center;
+}
+.button2{
+    border: none;
+   border-radius: 6px;
+   background-color: black;
+   margin-top: 50px;
+   color: white;
+   margin-left: -120px;
+   width: 150px;
+   height: 50px;
+   margin-bottom: 60px;
+
+}
+.button3{
+   border: none;
+   border-radius: 6px;
+   background-color: black;
+   margin-top: 50px;
+   color: white;
+   margin-right: 1350px;
+   width: 150px;
+   height: 50px;
+   margin-bottom: 60px;
+}
+.black{
+    border: 20px solid black;
+    width: 100px;
+    margin-bottom: 50px;
+
+}
+.container3{
+    background-image: url(../Images/blog-image.jpg);
+    width: 100%;
+    height: 640px;
+    margin-bottom: 70px;
+}
+.column2{
+    text-align: center;
+    color: white;
+    margin-top: 100px;
+    padding-left: 150px;
+}
+.text5{
+    font-size: 70px;
+    padding-right: 240px;
+    color: red;
+    margin-top: 30px;
+}
+.text6{
+    font-size: 50px;
+    padding-right: 340px;
+    margin-top: -20px;
+    
+
+}
+.text7{
+    text-align: justify;
+    padding-left: 100px;
+}
+.button4{
+    margin-top: 30px;
+    background-color: white;
+    color: black;
+    border: none;
+    border-radius: 7px;
+    height: 40px;
+    width: 150px;
+    margin-right: 340px;
+}
+.roundimg{
+    margin-left: 270px;
+    margin-top: 20px;
+    padding: 10px;
+}
+.roundimg2{
+    padding: 5px;
+
+}
+.text8{
+    font-size: 60px;
+    color: red;
+    margin-bottom: -10px;
+}
+.text9{
+    padding-right: 15px;
+    margin-bottom: 30px;
+}
+.text10{
+    margin-top: 40px;
+    margin-left: -70px;
+}
+.text11{
+    margin-top: 40px;
+}
+.container4{
+    margin-bottom: 70px;
+}
+.container5{
+    width: 100%;
+    height: 700px;
+    background-size: cover;
+    margin-bottom: 70px;
+    background-color: black;
+}
+.text12{
+    font-size: 80px;
+    color: red;
+    margin-top: 30px;
+}
+.text13{
+    font-size: 60px;
+    color: white;
+    margin-top: -20px;
+    margin-bottom: 10px;
+}
+input{
+    padding: 20px;
+    width: 700px;
+    height: 50px;
+    margin: 8px;
+    color: whitesmoke;
+    background-color: black;
+
+}
+.msg{
+    width: 700px;
+    height: 100px;
+
+}
+.button5{
+    width: 150px;
+    height: 40px;
+    background-color: white;
+    color: red;
+    margin-left: 20px;
+}
+.column3{
+    border-top: 50px solid black;
+}
+.container6{
+    margin-top: 40px;
+    margin-bottom: 400px;
+}
+.footer{
+    text-align: center;
+    background-color: red;
+    width: 100%;
+    color: whitesmoke;
+    padding: 10px;
+}
